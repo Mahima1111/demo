@@ -7,7 +7,7 @@ class Mobiles{
   static String brand = 'Redmi';
   void show(){
     String OS = 'Android';
-    print('phone OS is : ${OS}');
+    print('phone OS is : $OS');
 
   }
 
